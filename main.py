@@ -1,1 +1,1 @@
-print("Hello, Yandex")
+print("Hello, SkyPro")
